@@ -1,0 +1,31 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px|Ubuntu');
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css');
+
+p {
+  font-family: 'Slabo 27px', serif;
+}
+
+h1 {
+  font-family: 'Ubuntu', sans-serif;
+  margin-top: 10px;
+}
+
+.container {
+  padding: 20px;
+}
+
+form {
+  display: flex;
+}
+
+.form-control {
+  margin-right: 10px;
+}
+
+.yellow-block {
+  background-color: #ffe2e2;
+}
+
